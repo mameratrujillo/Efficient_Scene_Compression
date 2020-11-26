@@ -1,5 +1,5 @@
 # Efficient Scene Compression for Visual-based Localization
-Implementation of Efficient Scene Compression for Visual-based Localization.
+Implementation of Efficient Scene Compression for Visual-based Localization (coming soon).
 
 ### Authors:
 ### Marcela Mera-Trujillo (mameratrujillo@mix.wvu.edu)
@@ -17,3 +17,6 @@ booktitle = {Proc. of the IEEE International Conf. on 3D Vision (3DV)},
 month = {November},
 year = {2020}
 }
+
+## Video
+YouTube: https://youtu.be/anMCIKXi9Dc
